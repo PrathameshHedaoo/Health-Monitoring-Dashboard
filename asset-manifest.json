@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Health-Monitoring-Dashboard/static/css/main.8f1ea0fc.css",
+    "main.js": "/Health-Monitoring-Dashboard/static/js/main.224b1060.js",
+    "static/media/Designer.png": "/Health-Monitoring-Dashboard/static/media/Designer.86cb02e6dfafe7d1cc15.png",
+    "static/media/Old lady portrait.jpg": "/Health-Monitoring-Dashboard/static/media/Old lady portrait.5030a1d05d5491e8975e.jpg",
+    "index.html": "/Health-Monitoring-Dashboard/index.html",
+    "main.8f1ea0fc.css.map": "/Health-Monitoring-Dashboard/static/css/main.8f1ea0fc.css.map",
+    "main.224b1060.js.map": "/Health-Monitoring-Dashboard/static/js/main.224b1060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f1ea0fc.css",
+    "static/js/main.224b1060.js"
+  ]
+}
