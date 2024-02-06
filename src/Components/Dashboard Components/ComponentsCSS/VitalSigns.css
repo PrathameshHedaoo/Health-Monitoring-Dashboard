@@ -1,0 +1,13 @@
+.innerElements{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 8px 15px;
+    border-radius: 25px;
+    background: linear-gradient(to right, #add8e6, #005073);
+    transition: 0.2s ease-in-out;
+}
+
+.innerElements:hover{
+    box-shadow: 0 4px 8px #005073;
+}
